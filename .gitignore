@@ -1,4 +1,2 @@
-hardware/1.4/trhmsx/production/backups/*
-hardware/1.4/trhmsx/trhmsx-backups/*
-hardware/1.5/trhmsx/production/backups/*
-hardware/1.5/trhmsx/trhmsx-backups/*
+hardware/trhmsx/production/backups/*
+hardware/trhmsx/trhmsx-backups/*
